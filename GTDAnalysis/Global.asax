@@ -1,0 +1,3 @@
+﻿<%@ Application Inherits="GTDAnalysis.Global" %>
+
+

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{1A4AD00B-93E0-46AB-A206-839BAADDC70F}|">
+  <MonoDevelop.Ide.ItemProperties.GTDAnalysis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GTDAnalysis/Controllers/HCGController.cs">
+    <Files>
+      <File FileName="GTDAnalysis/Models/HCG.cs" Line="17" Column="40" />
+      <File FileName="GTDAnalysis/Controllers/HCGController.cs" Line="109" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

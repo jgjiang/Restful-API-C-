@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTDAnalysis", "GTDAnalysis\GTDAnalysis.csproj", "{1A4AD00B-93E0-46AB-A206-839BAADDC70F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTDAnalysis.Tests", "GTDAnalysis.Tests\GTDAnalysis.Tests.csproj", "{BE66865B-9782-45FC-A2CE-83CC36E2BAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A4AD00B-93E0-46AB-A206-839BAADDC70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4AD00B-93E0-46AB-A206-839BAADDC70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4AD00B-93E0-46AB-A206-839BAADDC70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4AD00B-93E0-46AB-A206-839BAADDC70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE66865B-9782-45FC-A2CE-83CC36E2BAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE66865B-9782-45FC-A2CE-83CC36E2BAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE66865B-9782-45FC-A2CE-83CC36E2BAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE66865B-9782-45FC-A2CE-83CC36E2BAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
